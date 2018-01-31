@@ -1,2 +1,2 @@
 
-module.exports = require("./components/index");
+module.exports = require("./lib/components/index");
